@@ -136,12 +136,16 @@ For any additional questions, please contact **Elena Kazakova @ e.v.kazakova@gma
 
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── README.pdf                          <- The top-level README for reviewers of this project in PDF format
-├── dsc_phase1_project_EVK_final.pdf    <- Narrative documentation of analysis as a PDF file
-├── dsc_phase1_project_EVK_final.ipynb  <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Phase1_Project_Presentation.pdf  <- PDF version of project presentation
-├── Instructions.md                     <- Flatiron instructions for this project
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                                              <- The top-level README for reviewers of this project
+├── README.pdf                                             <- The top-level README for reviewers of this project in PDF format
+├── dsc_phase1_project_EVK_final.pdf                       <- Final Project Jupyter notebook as a PDF file
+├── dsc_phase1_project_EVK_final.ipynb                     <- Final Project Jupyter notebook
+├── dsc_phase1_project_EVK_final_backup_03282021.ipynb     <- The latest backup of the notebook
+├── DS_Phase1_Project_Presentation.pdf                     <- PDF version of project presentation
+├── Instructions.md                                        <- Flatiron instructions for this project
+├── repo.pdf                                               <- Github repo structure image
+├── data                                                   <- Contains 3 directory: zippedData, unzippedData and sqlite
+├── old_files                                              <- Files not in use
+├── zippedData                                             <- original zipped files
+└── images                                                 <- Both sourced externally and generated from code
 ```
